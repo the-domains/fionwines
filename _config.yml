@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.4968306
+  lightness: 0.7240225
+  brandStrength: 0.2241548
+  brandColors:
+    - '#0D1516'
+    - '#5B87BF'
+    - '#D0EAE9'
+    - '#92884B'
+    - '#4C5C6D'
+  rhythmicContrast: 0.4918425
+typography_spectrum: 0.02443044
+name: Fionwines
