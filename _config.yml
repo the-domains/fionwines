@@ -1,3 +1,7 @@
+name: Fionwines
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.3111298
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4968306
-  brandStrength: 0.2241548
-  lightness: 0.7240225
   brandColors:
     - '#0A1214'
     - '#4D74AD'
     - '#6CA4D7'
     - '#92C2F0'
     - '#36332A'
+  brandStrength: 0.5
+  lightness: 0.7240225
+  saturation: 0.4968306
   rhythmicContrast: 0.4918425
-typography_spectrum: 0.3111298
-layout_spectrum: 1
-name: Fionwines
+purpose: []
